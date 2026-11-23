@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "6.0"
+  version: "6.1"
 
 package:
   name: zope.exceptions
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/z/zope.exceptions/zope_exceptions-${{ version }}.tar.gz
-  sha256: 0ac0e078ecdd8acb5da231c39fc6454bdf3249216fd1c06d0578bf8ea6bf3299
+  sha256: fffd3c6995111051f4384ec77c5f40ca7a7ceb879c9c6c94bd98426bb59be3fc
 
 build:
   number: 0
